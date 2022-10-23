@@ -1,5 +1,8 @@
 ## Treasure Island
 
+![image](https://user-images.githubusercontent.com/107684179/197383390-46820bbd-5558-47a9-bb25-31c633b77374.png)
+
+
 # Instructions
 
 Make your own "Choose Your Own Adventure" game. Use conditionals such as `if`, `else`, and `elif` statements to lay out the logic and the story's path in your program. 
